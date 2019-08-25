@@ -15,8 +15,8 @@ h3,
 h4,
 h5,
 h6 {
-    padding: 0;
-    margin: 0;
+    padding: 1px;
+    margin: 2px;
     color: gray;
     font-family: "lato", serif;
     text-align: center;
