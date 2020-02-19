@@ -4,7 +4,11 @@
   "dependencies": {
     "gulp-concat": "^2.6.1",
     "jquery": "^3.4.1",
+<<<<<<< HEAD
     "normalize.css": "^4.1.1",
+=======
+    "normalize.css": "^4.2.0",
+>>>>>>> 2f3a926420be130ab1c10a093c58b71413e5a953
     "postcss-at-rules-variables": "^0.1.10"
   },
   "devDependencies": {
