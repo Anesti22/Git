@@ -440,6 +440,7 @@ img {
 
 a {
     color: #d59451;
+    font-weight: 500;
 }
 
 .large-hero {
@@ -639,14 +640,13 @@ a {
     }
 
 @media (min-width: 800px) {
-
         .row__b-margin-until-medium {
             margin-bottom: 0;
         }
 
         .row__medium-4 {
             float: left;
-            width: 33.33%
+            width: 33.33%;
         }
 
         .row__medium-4--larger {
@@ -655,7 +655,7 @@ a {
 
         .row__medium-8 {
             float: left;
-            width: 66.66%
+            width: 66.66%;
         }
 
         .row__medium-8--smaller {
@@ -664,10 +664,9 @@ a {
 
         .row--gutters {
             padding-right: -65px;
-
         }
 
-        .row--gutters>div {
+        .row--gutters > div {
             padding-right: 65px;
         }
     }
